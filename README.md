@@ -1,19 +1,5 @@
-# memory-game
+# Memory Game
 
-## Project setup
-```
-npm install
-```
+Train your memory! Find a pair of the card.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Rebuild [this project](https://github.com/AModin/find-pair-card) for Vue 3. Migration from React.
